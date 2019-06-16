@@ -1,0 +1,2 @@
+def myString(sentence):
+    if 
